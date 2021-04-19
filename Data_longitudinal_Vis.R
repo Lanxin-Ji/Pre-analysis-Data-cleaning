@@ -1,10 +1,12 @@
 #install.packages("xlsx")
 #install.packages("ggplot2")
 #install.packages("ggstatsplot")
+#install.packages("rmcorr")
 library("xlsx")
 library("ggplot2")
 library("ggstatsplot")
 library("reshape2")
+library("rmcorr")
 
 setwd("C:/Users/tnice/Desktop/ncrc_desktop/Dongning_PD")
 dir()
